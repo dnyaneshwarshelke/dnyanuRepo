@@ -1,0 +1,14 @@
+name,state,amount
+venu,tg,1000
+mani,tg,2000
+kumar,ap,3000
+venu,ap,4000
+venkat,ap,2000
+kapil,tg,2000
+kumar,tg,2000
+kapil,del,3000
+venu,del,4000
+venkat,del,1200
+kumar,del,2000
+,ap,3000
+,del,3000
